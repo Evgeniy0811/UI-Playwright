@@ -1,0 +1,19 @@
+{
+  "name": "demo9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.25.0",
+    "playwright": "^1.25.0"
+  },
+  "dependencies": {
+    "jest": "^27.5.1",
+    "test": "^0.6.0"
+  }
+}
